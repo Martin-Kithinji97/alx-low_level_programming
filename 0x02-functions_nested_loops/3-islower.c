@@ -1,5 +1,5 @@
 #include "main.h"
-/**
+I/**
   * _islower - prints loer case alphabets
   *
   * @c: parameter to be printed
