@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  * isalpha - prints both lowercase and uppercase
+  * _isalpha - prints both lowercase and uppercase
   *
   * @c: prints out characters
   *
